@@ -9,5 +9,5 @@ GitHub-Footer-Directive is a simple footer directive for your IONIC Project that
 </br>
 1. Clone the repo and copy the "gitCreditFooter.js" in you js directory. </br>
 2. Include this in your index.html ```<script src="js/gitCreditFooter.js"></script>```</br>
-3. Inject the module in your app.js 
+3. Inject the module in your app.js </br>
    ```var app = angular.module('myapp',['gitHubCredit.Footer']);```
