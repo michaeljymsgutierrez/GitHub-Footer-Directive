@@ -14,7 +14,6 @@ GitHub-Footer-Directive is a simple footer directive for your IONIC Project that
 ```var app = angular.module('myapp',['gitHubCredit.Footer']);```</br></br>
 4 Set the Github USERNAME in app.js </br>
 ``` $window.open('https://github.com/< USERNAME>','_self','location=no');``` </br></br>
-5 Finally use this code in your template or wherever you want the footer to appear </br></br>
-```
-<credit-Footer></credit-Footer>
+5 Finally use this code in your template or wherever you want the footer to appear </br>
+```<credit-Footer></credit-Footer>
 ```
