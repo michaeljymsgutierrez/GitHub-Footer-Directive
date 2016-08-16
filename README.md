@@ -22,5 +22,8 @@ GitHub-Footer-Directive is a simple footer directive for your IONIC Project that
     };
 })
 
-```
+```</br></br>
+5 Finally use this code in your template or wherever you want the footer to appear </br>
+```<credit-Footer></credit-Footer>```
+6. 
 
