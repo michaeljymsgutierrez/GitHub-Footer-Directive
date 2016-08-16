@@ -8,6 +8,6 @@ GitHub-Footer-Directive is a simple footer directive for your IONIC Project that
 # Usage
 </br>
 1. Clone the repo and copy the "gitCreditFooter.js" in you js directory. </br>
-2. Copy / include this in your index.html [<script src="js/gitCreditFooter.js"></script>](http://github.com)
+2. Include this in your index.html <script src="js/gitCreditFooter.js">
  
 </br>
